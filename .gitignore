@@ -1,3 +1,4 @@
 SuperClad/bin/*
 SuperClad/obj/*
-.vs
+.vs/
+.history/
