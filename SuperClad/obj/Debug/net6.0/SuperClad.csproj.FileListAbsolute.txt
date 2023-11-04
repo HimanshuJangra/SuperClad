@@ -1,0 +1,11 @@
+C:\Users\himan\source\repos\SuperClad\SuperClad\bin\Debug\net6.0\SuperClad.deps.json
+C:\Users\himan\source\repos\SuperClad\SuperClad\bin\Debug\net6.0\SuperClad.dll
+C:\Users\himan\source\repos\SuperClad\SuperClad\bin\Debug\net6.0\SuperClad.pdb
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\SuperClad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\SuperClad.AssemblyInfoInputs.cache
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\SuperClad.AssemblyInfo.cs
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\SuperClad.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\SuperClad.dll
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\refint\SuperClad.dll
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\SuperClad.pdb
+C:\Users\himan\source\repos\SuperClad\SuperClad\obj\Debug\net6.0\ref\SuperClad.dll
